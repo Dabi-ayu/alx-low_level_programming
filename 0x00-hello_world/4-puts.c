@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - the main entry point
- *return : always success
+ * main - this is the main point
+ * Description: this function uses the puts function to print
+ * Return: always (sucess)
  */
 int main(void)
 {
