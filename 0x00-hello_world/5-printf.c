@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - access point 
- * Description: this function prints using the print function
- * Return: this returns zero always
+ * main - This is main access point
+ * Description: prints using the printf function
+ * Return: always (success)
  */
 int main(void)
 {
